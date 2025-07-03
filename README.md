@@ -10,7 +10,7 @@ Procedure Summary:
 -PMOS and NMOS transistors were selected from the FreePDK45 library.
 -Proper transistor sizing was used: PMOS width = 300nm, NMOS width = 150nm.
 
-2. Simulation
+3. Simulation
 -DC Sweep: Verified the inverter’s voltage transfer characteristic (VTC).
 -Transient Analysis: Used a pulse waveform to validate clean switching behavior.
 
