@@ -1,11 +1,11 @@
 # DRC & LVS check
 
-Objectives
+**Objectives:**
 -Design a schematic of a CMOS inverter using FreePDK45 PMOS and NMOS devices.
 -Simulate the inverter for both DC and transient responses to validate switching behavior.
 -Verify layout correctness using DRC and LVS checks via Calibre.
 
-Procedure Summary:
+**Procedure Summary:**
 
 1. Schematic Design
    
@@ -35,10 +35,10 @@ Procedure Summary:
 -LVS: Used Calibre to confirm that the layout was per the schematic.
 
 
-Conclusion:
+**Conclusion:**
 The project successfully demonstrates the process of designing and verifying a CMOS inverter. Through schematic design, simulation, layout, and verification, key VLSI design skills were reinforced.
 
-References:
+**References:**
 
 -EE 332 Lab 4 Reference Sheet, Spring 2025
 
