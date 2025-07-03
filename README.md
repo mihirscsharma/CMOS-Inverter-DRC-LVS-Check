@@ -36,6 +36,7 @@
 
 
 **Conclusion:**
+
 The project successfully demonstrates the process of designing and verifying a CMOS inverter. Through schematic design, simulation, layout, and verification, key VLSI design skills were reinforced.
 
 **References:**
