@@ -7,15 +7,21 @@ Objectives
 
 Procedure Summary:
 1. Schematic Design
+   
 -PMOS and NMOS transistors were selected from the FreePDK45 library.
+
 -Proper transistor sizing was used: PMOS width = 300nm, NMOS width = 150nm.
 
 3. Simulation
+   
 -DC Sweep: Verified the inverter’s voltage transfer characteristic (VTC).
+
 -Transient Analysis: Used a pulse waveform to validate clean switching behavior.
 
 4. Layout Design
+   
 -Constructed layout using required layers (active, poly, metal1, etc.).
+
 -Added n-well and threshold implants as required.
 
 5. Verification
