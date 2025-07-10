@@ -1,4 +1,4 @@
-# DRC & LVS Check
+# CMOS Inverter: DRC & LVS Check
 
 ## **Objectives:**
 
